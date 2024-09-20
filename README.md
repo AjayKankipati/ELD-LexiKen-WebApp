@@ -1,2 +1,2 @@
 # Projects
-ML + Web App Projects
+ML Projects
